@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Peakodev
+- 👋 Hi, I’m Duc Dao.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Software Engineering in FU.
+- 🌱 I’m currently learning Software Engineering in FPTU.
 - 💞️ I’m looking to collaborate on Upwork.
-- 📫 You can reach me through @Peakodev.
+- 📫 You can reach me through @daomaiduyduc.
 
 <!---
 Peakodev/Peakodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
