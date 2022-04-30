@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Duc Dao.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Software Engineering in FPTU.
-- 💞️ I’m looking to collaborate on Upwork.
 - 📫 You can reach me through @daomaiduyduc.
 
 <!---
