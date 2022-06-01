@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duc Dao.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Software Engineering in FPTU.
+- 🌱 A student in FPTU, majoring in Software Engineering.
 - 📫 You can reach me through @daomaiduyduc.
 
 <!---
