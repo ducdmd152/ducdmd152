@@ -1,7 +1,7 @@
 #### Hi, I'm Duc Dao ^^ 👋
-👀 Like cats, love traveling and living with code.
-
 💡 A student in FPTU, majoring in Software Engineering.
+
+👀 Like cats, love traveling and living with code.
 
 🌱 You can reach me through: ducdmd152@gmail.com.
 <!---
