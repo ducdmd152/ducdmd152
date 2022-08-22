@@ -5,7 +5,7 @@
     <h5>A student in FPTU, majoring in Software Engineering. 🌱 </h5>
     <h5>Connect with me:</h5>
     <div id="contact" align="center" style="margin: 0 auto">
-       <a href="ducdmd152@gmail.com"><img align="left" alt="Duc Dao | Email" width="22px"     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+       <a href="mailto:ducdmd152@gmail.com"><img align="left" alt="Duc Dao | Email" width="22px"     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
        <a href="https://www.linkedin.com/in/ducdmd152/"><img align="left" alt="Duc Dao| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
        <a href="https://www.facebook.com/heydmdd/"><img align="left" alt="Duy Đức | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
        <a href="https://www.instagram.com/heydmdd/"><img align="left" alt="heydmdd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
