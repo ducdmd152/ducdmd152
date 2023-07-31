@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi  👋, I'm Duc Dao ^^</h1>
 <h3 align="center">💡  A student in FPTU, majoring in Software Engineering.</h3>
 
@@ -25,13 +21,14 @@
 
 ## 📝 Skills:
 <p align="center">
-  <img src="https://img.icons8.com/color/512/spring-logo.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/officel/512/java-eclipse.png" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/> 
+	<img src="https://img.icons8.com/color/512/spring-logo.png" width="48" height="48"/>
+	<img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="48" height="48"/>
+	<img></img>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="46" height="46"/>
+	<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+	<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+	<img src="https://img.icons8.com/color/48/000000/git.png"/>
+	<img src="https://img.icons8.com/color/48/000000/github-2.png"/> 
 </p>
 
 ## 📋 Activities:
