@@ -21,12 +21,15 @@
 
 ## 📝 Skills:
 <p align="center">
-	<img src="https://img.icons8.com/color/512/spring-logo.png" width="48" height="48"/>
-	<img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="48" height="48"/>
+	<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="48" height="48"/>	
+	<img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="48" height="48"/>	
 	<img></img>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="46" height="46"/>
+ 	<img src="https://img.icons8.com/color/512/spring-logo.png" width="48" height="48"/>	
+ 	<img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="48" height="48"/>
+  	<img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" width="48" height="48"/>
 	<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-	<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+	<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 	
 	<img src="https://img.icons8.com/color/48/000000/git.png"/>
 	<img src="https://img.icons8.com/color/48/000000/github-2.png"/> 
 </p>
