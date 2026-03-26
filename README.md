@@ -23,7 +23,7 @@
 - 🚀 [GPU Programming Flash Tour: From Curiosity to Parallel Thinking](https://ducdmd152.hashnode.dev/gpu-programming-flash-tour-from-curiosity-to-parallel-thinking)
 - ☕ [How I Approach Java Web Development to Get a Job](https://ducdmd152.hashnode.dev/how-i-approach-java-web-development-to-a-job)
 - 🌐 [How I Learned the Basics of Computer Networking as a Developer](https://ducdmd152.hashnode.dev/how-i-completed-basic-concepts-of-computer-networking-as-a-developer)
-- 🧮 [Extended Euclid Algorithm and Applications](https://muoii.github.io/2019-12-12-euclid-dynamic/)
+- 🧮 [The Extended Euclidean Algorithm and its applications](https://muoii.github.io/2019-12-12-euclid-dynamic/)
 
 
 ---
